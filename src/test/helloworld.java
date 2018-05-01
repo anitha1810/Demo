@@ -1,6 +1,5 @@
-package com.example.test;
+package test;
 import org.junit.Assert;
-import org.junit.Before;
 import org.junit.Test;
 
 public class helloworld {
